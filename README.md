@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iankennedy
-- 👀 I’m interested in machine learning applied to news media
+- 👀 I’m interested in machine learning applied to news media.
 - 📫 How to reach me @iankennedy on twitter or at everwas.com
 
 <!---
